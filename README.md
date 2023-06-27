@@ -1,16 +1,2 @@
-# piano_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Piano-App
+A Piano app built on the powerful Flutter framework, this innovative app delivers a captivating musical experience, complete with note labels to help beginners, combined with the ability to change the width of keys to adjust to different play styles. 
